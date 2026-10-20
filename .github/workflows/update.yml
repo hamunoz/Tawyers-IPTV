@@ -1,0 +1,41 @@
+name: Actualizar lista de música
+
+on:
+  schedule:
+    - cron: "17 9 * * *"   # todos los días, 5:17 am hora de Puerto Rico (09:17 UTC)
+  workflow_dispatch:        # botón "Run workflow" para correrlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Filtrar música y probar enlaces
+        run: |
+          python3 scripts/iptv_music.py "https://iptv-org.github.io/iptv/index.m3u" \
+            --basename music --out lists --timeout 10 --workers 40 --quiet
+
+      - name: Guardar cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lists/
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Lista actualizada $(date -u +'%Y-%m-%d')"
+            git push
+          fi
