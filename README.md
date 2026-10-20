@@ -25,7 +25,6 @@ https://raw.githubusercontent.com/hamunoz/Tawyers-IPTV/main/lists/music_vivos.m3
 3. **Prueba:** cada enlace se abre con User-Agent de VLC (o el que trae la lista en `#EXTVLCOPT`). En HLS no basta con que responda la `.m3u8`: se baja hasta un segmento real.
 4. **Publicación:** si algo cambió, el workflow hace commit en `lists/`.
 
-Corre a diario a las 5:17 am (hora de Puerto Rico). Para correrlo a mano: pestaña **Actions → Actualizar lista de música → Run workflow**.
 
 > ⚠️ La prueba se hace desde los servidores de GitHub (EE. UU.). Un canal bloqueado por región o que rechaza IPs de datacenter puede salir como muerto aunque a ti te funcione; mira `music_reporte.csv` si echas de menos alguno.
 
