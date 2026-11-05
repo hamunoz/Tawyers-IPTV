@@ -2,7 +2,7 @@ nombre,grupo,url,estado,detalle
 1HD Music Television (1080p),Music,http://176.118.197.101/1HD/index.m3u8,vivo,HLS ok
 2TV (1080p),Music,https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd,vivo,application/dash+xml ok
 3ABN Praise Him Music Network,Music;Religious,https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8,vivo,HLS ok
-4ever Music (1080p),Music,http://stream.mcquack.net/257/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/257/z����\x00\x00\x00' (found at least '\x00')
+4ever Music (1080p),Music,http://stream.mcquack.net/257/index.m3u8,vivo,HLS ok
 4 Fun Dance,Music,http://92.114.85.87:8018/play/a00k/index.m3u8,vivo,HLS ok
 4 Fun TV,Music,https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8,vivo,HLS ok
 4Kurd,Music,https://4kuhls.persiana.live/hls/stream.m3u8,vivo,HLS ok
@@ -57,7 +57,7 @@ Atomic TV (360p),Music,https://atomic.streamnet.ro/atomictv.m3u8,vivo,HLS ok
 Audiokiss (1080p),Music,https://master.tucableip.com/audiokisstv/index.m3u8,vivo,HLS ok
 Avang TV (1080p),Music,https://hls.avang.live/hls/stream.m3u8,vivo,HLS ok
 AXS TV (720p),Music,http://23.239.31.26:8989/axstv/index.m3u8,muerto,URLError: timed out
-Azahares Radiovisual Multimedia (720p),Music,https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8,vivo,HLS ok
+Azahares Radiovisual Multimedia (720p),Music,https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8,muerto,HTTP 404
 B4U Music (1080p),Music,https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8,vivo,HLS ok
 Baby Time (576p),Kids;Music,http://178.134.1.158:8081/babytime/index.m3u8,vivo,HLS ok
 Balle Balle (1080p),Music,https://mcncdndigital.com/worldpunjabitv/index.m3u8,vivo,HLS ok
@@ -79,10 +79,10 @@ Boom TV (1080p),Music,https://tvboom.ro/live-tv/live.m3u8,vivo,HLS ok
 Botflix Radioo (1080p),Music,https://hls.botflix.tv/radioo/index.m3u8,vivo,HLS ok
 BOX TV,Music,http://213.91.179.28:8000/play/a0an,vivo,application/octet-stream ok
 BPX TV Radio,Music,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8,vivo,HLS ok
-BRIDGE (576p),Music,http://stream.mcquack.net/318/index.m3u8,muerto,"InvalidURL: URL can't contain control characters. '/318/tracks-v1a1/O��)""���NQ�Lޘ\\U��\x7f�=�jTx�ws\x7f~?L@�f1\x01\x00\x"
-BRIDGE Classic (576p),Classic;Music,http://stream.mcquack.net/272/index.m3u8,vivo,HLS ok
+BRIDGE (576p),Music,http://stream.mcquack.net/318/index.m3u8,vivo,HLS ok
+BRIDGE Classic (576p),Classic;Music,http://stream.mcquack.net/272/index.m3u8,muerto,"InvalidURL: URL can't contain control characters. ""/272/�����IH�/Q��&7�\x14��\x01}G���T<\x03���n�{+�Ě��u$�\x16�'�Wݩ��ǁ��"
 BRIDGE Deluxe (1080p),Music,http://31.148.48.15/Bridge_TV_HD/index.m3u8,muerto,URLError: timed out
-BRIDGE Deluxe HD (576p),Music,http://stream.mcquack.net/92/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/92/���w�\x06=��ê�ָmp\x15?���\x1bA\x07�ӥ=��\x12]\x15�\x01\x06����\x00
+BRIDGE Deluxe HD (576p),Music,http://stream.mcquack.net/92/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/92/:8�.��\x7fJt*�\x00h�\x02��\x00\x00\x00' (found at least '\x7f')
 BRIDGE Hits (576p),Music,http://stream.mcquack.net/320/index.m3u8,vivo,HLS ok
 BRIDGE Rock (576p),Music,http://178.134.1.158:8081/BRIDGEROCK/index.m3u8,vivo,HLS ok
 BTA TV (720p),Music,https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8,vivo,HLS ok
@@ -98,12 +98,12 @@ Chamame TV,Music,https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8,viv
 Chocolate FM (720p),Music,https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8,vivo,HLS ok
 City Eden Birma Play [Not 24/7],Music,https://cityeden.catcast.tv/content/34364/index.m3u8,vivo,HLS ok
 City Eden Classic Music [Not 24/7],Music,https://cityeden.catcast.tv/content/47400/index.m3u8,vivo,HLS ok
-City Eden Play [Not 24/7],Music,https://cityeden.catcast.tv/content/34100/index.m3u8,muerto,HTTP 503
-City Eden Sirtaki TV [Not 24/7],Music,https://cityeden.catcast.tv/content/46421/index.m3u8,muerto,HTTP 503
+City Eden Play [Not 24/7],Music,https://cityeden.catcast.tv/content/34100/index.m3u8,vivo,HLS ok
+City Eden Sirtaki TV [Not 24/7],Music,https://cityeden.catcast.tv/content/46421/index.m3u8,vivo,HLS ok
 City TV (Bulgaria) (576p) [Not 24/7],Music,https://tv.city.bg/play/tshls/citytv/index.m3u8,vivo,HLS ok
 CKNO-FM (616p),Music,https://videostream.jpbgdigital.com/NOWTV.m3u8,vivo,HLS ok
 Claro Musica TV (1080p),Music,http://45.171.64.30:6060/play/a010,vivo,application/octet-stream ok
-Classic Music (1080p),Music,http://stream.mcquack.net/312/index.m3u8,vivo,HLS ok
+Classic Music (1080p),Music,http://stream.mcquack.net/312/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/312/tracks-v1a1/$�b���3\x0f\'�d��i���>�\x04]\x10\x06���Fm�\x08�\x11r
 Classica (720p),Music,https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8,vivo,HLS ok
 Clubbing TV France,Music,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8,muerto,HTTP 504
 Clubbing TV UK (720p),Music,https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8,vivo,HLS ok
@@ -164,7 +164,7 @@ Eska TV (1080p),Music,http://92.114.85.87:8018/play/a00h/index.m3u8,vivo,HLS ok
 Eska TV Extra (1080p),Music,http://92.114.85.87:8016/play/a008/index.m3u8,vivo,HLS ok
 ETV Beats (1080p),Music,https://jmp2.uk/stvp-IN4900002RV,vivo,HLS ok
 ETV Music (1080p),Music,https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8,muerto,HTTP 404
-EU Music (1080p),Music,http://stream.mcquack.net/261/index.m3u8,muerto,"InvalidURL: URL can't contain control characters. ""/261/tracks-v1a1/�\x1f���'-K�\\1\x01\x00\x00"" (found at least '\x1f')"
+EU Music (1080p),Music,http://stream.mcquack.net/261/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/261/tracks-v1a1/�i\x0f�\x08��\x18`���Ù=iӸ\x16����>�\x04]\x10\x06���F
 Euro Indie Music Chart TV (360p),Music,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8,vivo,HLS ok
 Europa Plus TV (1080p),Music,http://31.148.48.15/Europa_Plus_HD/index.m3u8,muerto,URLError: timed out
 Europa Plus TV Belarus (576p),Music,http://46.53.200.153:7777/play/EuropaPlus/index.m3u8,vivo,HLS ok
@@ -176,7 +176,7 @@ Famatv (1080p) [Not 24/7],Music,https://tv2.fastcast4u.com:3310/live/famatvlive.
 Fame95 FM (480p),Music,https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8,muerto,HTTP 400
 Farra Play (576p),Music,https://stream.farra.com.py/live/farra_low.m3u8,vivo,HLS ok
 Fiesta TV,Music,https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8,vivo,HLS ok
-Finest TV (288p) [Not 24/7],Music,https://media.finest.tv/hls/live.m3u8,muerto,URLError: timed out
+Finest TV (288p) [Not 24/7],Music,https://media.finest.tv/hls/live.m3u8,vivo,HLS ok
 First Music Channel (1080p),Music,http://rtmp.one.by:1300,vivo,application/octet-stream ok
 First Music Channel Russia (1080p),Music,http://rtmp.one.by:2300,vivo,application/octet-stream ok
 Flex Studio Radio TV [Not 24/7],Music,https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8,muerto,HTTP 404
@@ -185,7 +185,7 @@ FM Mundo (1080p),Music,https://video2.makrodigital.com/fmmundo/fmmundo/playlist.
 FM Plus TV (720p),Music,https://v2.tustreaming.cl/fmplus/index.m3u8,vivo,HLS ok
 FMTV [Not 24/7],Music,https://s2.tvdatta.com:3307/hybrid/play.m3u8,vivo,HLS ok
 Folk Klub TV (720p),Music,http://tv1.intv.mk:1935/live2/folkklub/index.m3u8,vivo,HLS ok
-Folk TV (1080p) [Not 24/7],Music,https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8,muerto,HTTP 404
+Folk TV (1080p) [Not 24/7],Music,https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8,vivo,HLS ok
 Folklore TV (720p),Music,https://play.folkloretv.pe/StreamSD/index.m3u8,vivo,HLS ok (cert inválido)
 Folx Music Television,Music,https://folxapp.b-cdn.net/1080p/index.m3u8,vivo,HLS ok
 Folx Slovenija,Music,https://folxsloapp.b-cdn.net/1080p/index.m3u8,vivo,HLS ok
@@ -201,8 +201,8 @@ GEM 24B,Music,https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202,muerto,
 GEM Mifa,Music,https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202,muerto,HTTP 403
 GEM Mifa +,Music,https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202,muerto,HTTP 403
 Genial TV (720p),Music,https://v1.tustreaming.cl/genialtv/index.m3u8,vivo,HLS ok
-Gex TV (1080p),Entertainment;Music,https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8,muerto,HTTP 503
-Gigant FM (720p),Music,https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8,muerto,HTTP 404
+Gex TV (1080p),Entertainment;Music,https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8,vivo,HLS ok
+Gigant FM (720p),Music,https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8,vivo,HLS ok
 GMTV (1080p),Music,https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341,muerto,HTTP 404
 GO TV (720p),Entertainment;Music,https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8,vivo,HLS ok
 Gugak TV (1080p),Music,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8,vivo,HLS ok
@@ -218,7 +218,7 @@ Hit Mix Music,Music,http://213.91.179.28:8000/play/a0cl,vivo,application/octet-s
 Hitradio O3 (720p),Music,https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd,vivo,application/dash+xml ok
 Hits 360 TV (720p) [Not 24/7],Music,http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8,muerto,URLError: timed out
 HMI PROMZ NEWS (720p),Music,https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8,vivo,HLS ok
-HMTV (Nigeria) (720p),Music,https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8,vivo,HLS ok
+HMTV (Nigeria) (720p),Music,https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8,muerto,sin datos
 Hope Channel PROYECTO JA (360p),Family;Music;Religious,https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8,vivo,HLS ok
 HTV (720p),Music,http://45.171.64.30:6060/play/a012/index.m3u8,vivo,HLS ok
 HTV Argentina (720p),Music,http://45.134.141.161:2200/ARG/HTV/index.m3u8,vivo,HLS ok
@@ -230,7 +230,7 @@ Impact TV (Romania) (1080p),Music,https://live.tvimpact.ro:8088/hevc/index.m3u8,
 Impact TV Dance (1080p),Music,https://online.tvimpact.live/hls/dancetv.m3u8,vivo,HLS ok
 Impact TV Manele (1080p),Music,https://online.tvimpact.live/hls/impact_tv.m3u8,vivo,HLS ok
 Infinita TV (1080p),Music,https://s2.tvdatta.com:3753/hybrid/play.m3u8,vivo,HLS ok
-InRating TV (1080p),Music,http://stream.mcquack.net/147/index.m3u8,muerto,"InvalidURL: URL can't contain control characters. '/147/tracks-v1a1/D@����N,���j\x7f��0�0\x01\x00\x00' (found at least '"
+InRating TV (1080p),Music,http://stream.mcquack.net/147/index.m3u8,vivo,HLS ok
 Insync (576p),Music,https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8,vivo,HLS ok
 INTV Australia (720p),Music,http://tv1.intv.mk:1935/live/intv/index.m3u8,vivo,HLS ok
 IQ Channel (720p),Music,https://rtmp.info/iqtv/envivo/playlist.m3u8,vivo,HLS ok
@@ -247,8 +247,8 @@ JooMusic (720p),Music,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u
 Jordan Songs (1080p),Music,https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8,vivo,HLS ok
 JRTV Jarviradio (720p),Music,https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8,vivo,HLS ok
 Juice TV (1080p) [Not 24/7],Music,https://juicex.nz/hls/mystream.m3u8,muerto,URLError: [Errno -2] Name or service not known
-K100 (1080p),Music,https://k100streymi.mbl.is/beint/k100/index.m3u8,muerto,UnicodeEncodeError: ordinal not in range(128)
-Kalika TV (576p),Music,http://server.applelive.in/kalikatv/kalikatv.m3u8,muerto,HTTP 404
+K100 (1080p),Music,https://k100streymi.mbl.is/beint/k100/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/beint/k100/k��\x1b��\x033�\x02\x00\x00' (found at least '\x1b')
+Kalika TV (576p),Music,http://server.applelive.in/kalikatv/kalikatv.m3u8,vivo,HLS ok
 KandelaTV (480p),Music,https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8,muerto,HTTP 404
 Karibena (720p),Music,http://187.102.210.46/KARIBENA/index.m3u8,vivo,HLS ok
 Kayhan TV (720p),Music,https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8,vivo,HLS ok
@@ -281,8 +281,8 @@ Lamore Rock Show WebTV (720p),Music,https://a.cdni.live/rodrigo2364/rodrigo2364/
 LaPuraCrema Television,Music,https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8,muerto,HTTP 404
 Lausitzwelle (1080p),Music,https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=,vivo,HLS ok
 LaXitosa Panama (360p) [Not 24/7],Music,https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8,muerto,HTTP 404
-Lingkar TV,Music;News;Religious,https://lingkartv.my.id/hls/lingkartv.m3u8,vivo,HLS ok
-LiraTV (720p),Music,https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8,muerto,URLError: _ssl.c:993: The handshake operation timed out
+Lingkar TV,Music;News;Religious,https://lingkartv.my.id/hls/lingkartv.m3u8,muerto,HTTP 404
+LiraTV (720p),Music,https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8,muerto,URLError: _ssl.c:994: The handshake operation timed out
 Littoral FM TV (720p),Music,https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8,muerto,HTTP 404
 Live99FM (1080p),Music,https://media.streambrothers.com:1936/8014/8014/playlist.m3u8,vivo,HLS ok
 Live Music Channel HD (1080p),Music,http://46.53.200.153:7777/play/Live_music_channel/index.m3u8,vivo,HLS ok
@@ -291,10 +291,10 @@ Lobo TV (720p),Music,https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/pla
 Look Thoong TV (720p) [Not 24/7],Music,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8,vivo,HLS ok
 Los Angeles TV Radio,Music,https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8,vivo,HLS ok
 Love TV (1080p) [Not 24/7],Music,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8,vivo,HLS ok
-LRT Klasika (1080p),Music,https://stream-live.lrt.lt/klasika/master.m3u8,muerto,HTTP 404
-LRT Opus (1080p),Music,https://stream-live.lrt.lt/opus/master.m3u8,muerto,HTTP 404
-M1 (Ukraine) (1080p),Music,http://stream.mcquack.net/218/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/218/:8�.��\x7fJt*�\x00h�\x02��\x00\x00\x00' (found at least '\x7f')
-M2 (Ukraine) (1080p),Music,http://stream.mcquack.net/330/index.m3u8,vivo,HLS ok
+LRT Klasika (1080p),Music,https://stream-live.lrt.lt/klasika/master.m3u8,vivo,HLS ok
+LRT Opus (1080p),Music,https://stream-live.lrt.lt/opus/master.m3u8,vivo,HLS ok
+M1 (Ukraine) (1080p),Music,http://stream.mcquack.net/218/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/218/tracks-v1a1/�l�\x010\x01\x00\x00' (found at least '\x01')
+M2 (Ukraine) (1080p),Music,http://stream.mcquack.net/330/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/330/zQGG��z�m���\x19Oݾ�tx<]��\x03�\x14��\x01��\x01@�\x00\x00\x00' (f
 m2o TV (1080p),Music,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8,vivo,HLS ok
 M6 Music,Music,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc,muerto,URLError: [Errno -2] Name or service not known
 M-1 (480p),Music,https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8,vivo,HLS ok
@@ -327,9 +327,9 @@ Melody FM (720p) [Not 24/7],Music,https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVx
 Messatida TV (720p),Music,https://rtmp.streams.ovh:8081/mtv/index.m3u8,vivo,HLS ok
 Metaleitor TV,Music,https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8,vivo,HLS ok
 Metropoli Medios TV (720p),Music,https://eu1.servers10.com:8081/8214/index.m3u8,vivo,HLS ok
-Metropolitana del Cuzco,Music,https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8,vivo,HLS ok
+Metropolitana del Cuzco,Music,https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8,muerto,HTTP 404
 Mezzo (576p),Music,http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:,muerto,URLError: timed out
-Mezzo Live (1080p),Music,http://stream.mcquack.net/276/index.m3u8,vivo,HLS ok
+Mezzo Live (1080p),Music,http://stream.mcquack.net/276/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/276/tracks-v1a1/��..���ȕ���W�~��QM-0\x01\x00\x00' (found at least '\
 mfm (1080p),Music,https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8,vivo,HLS ok
 Mh 1 Music (720p),Music,https://livestream.jswk.online/playlisttest/live/playlist.m3u8,vivo,HLS ok
 Mi Musica Hits (720p),Music,http://38.188.186.47:4000/play/a04n/index.m3u8,vivo,HLS ok
@@ -343,7 +343,7 @@ Mohammed Abdo (1080p),Music,https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb66
 Molahits TV (720p),Music,http://ventdelnord.tv:8080/mola/directe.m3u8,muerto,ConnectionResetError: [Errno 104] Connection reset by peer
 Montones TV (1080p),Music,https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8,vivo,HLS ok
 Mooz Dance HD (1080i) [Geo-blocked],Music,https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8,muerto,HTTP 403
-Mosaique FM (1080p),Music,https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR,muerto,HTTP 404
+Mosaique FM (1080p),Music,https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR,vivo,HLS ok
 Movie Music by Stingray (1080p),Music,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8,vivo,HLS ok
 MTV Biggest Pop (1080p),Music,https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8,vivo,HLS ok
 MTV Biggest Pop BR (1080p),Music,https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8,vivo,HLS ok
@@ -376,15 +376,15 @@ Muzsika TV,Music,http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.
 Muzvar (1080p),Music,https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8,vivo,HLS ok
 Muzyka 1 [Not 24/7],Music,https://kino-1.catcast.tv/content/37745/index.m3u8,vivo,HLS ok
 Muzyka Kino [Not 24/7],Music,https://kino-1.catcast.tv/content/37739/index.m3u8,vivo,HLS ok
-Muzyka Live (576p),Music,http://stream.mcquack.net/303/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/303/tracks-v1a1/��NiT�\x00�Z5��Ww����cW\x7f�\x00��ɼ0\x01\x00\x00' (f
+Muzyka Live (576p),Music,http://stream.mcquack.net/303/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/303/75��W�������|m�O��X_9\x1f\x06\x00\x12t�\x00\x00\x00' (found at l
 Muzyka Pervogo (576p),Music,http://stream.mcquack.net/153/index.m3u8,vivo,HLS ok
 MuzzOne,Music,https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8,muerto,URLError: timed out
-Nande Portetepe TV,Music,https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8,muerto,HTTP 404
+Nande Portetepe TV,Music,https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8,vivo,HLS ok
 NASHE Music (720p),Music,https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8,vivo,HLS ok
 Navahang TV (720p),Music,https://hls.navahang.live/hls/stream.m3u8,vivo,HLS ok
 New Channel (480p),Kids;Music,https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8,muerto,HTTP 404
 NEW K-POP (1080p),Music,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus,muerto,HTTP 400
-Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,vivo,HLS ok
+Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,muerto,HTTP 404
 NH BollyRaga (1080p),Music,https://jmp2.uk/stvp-IN460001373,vivo,HLS ok
 Nidae AlIslam Radio (1080p),Music,https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8,muerto,HTTP 404
 NogoumFMTV (672p) [Not 24/7],Music,https://nogoumtv.nrpstream.com/hls/stream.m3u8,muerto,HTTP 403
@@ -449,7 +449,7 @@ Polsat Music (1080p),Music,http://92.114.85.87:8001/play/a00z/index.m3u8,vivo,HL
 POP World TV (720p),Music,https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8,vivo,HLS ok
 Power 101.7 FM (720p),Music,https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8,vivo,HLS ok
 Power Dance (1080p),Music,https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8,vivo,HLS ok
-Power Hit Radio (576p),Music,https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8,vivo,HLS ok
+Power Hit Radio (576p),Music,https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8,muerto,HTTP 403
 Power Love (1080p),Music,https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8,vivo,HLS ok
 PowerTurk Akustik (1080p),Music,https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8,vivo,HLS ok
 PowerTurk Slow (1080p),Music,https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8,vivo,HLS ok
@@ -458,7 +458,7 @@ Prattel TV (720p),Music,https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playl
 PTC Chakde (720p),Music,https://cdn.pishow.tv/ott/live/449/master.m3u8,vivo,HLS ok
 PTC Music (720p),Music,https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8,vivo,HLS ok
 Public Music (576p),Music,https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8,vivo,HLS ok
-Punjabi Beats HD (720p),Music,https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8,muerto,HTTP 403
+Punjabi Beats HD (720p),Music,https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8,muerto,HTTP 404
 Punjabi Hits (1080p),Music,https://stream.ottlive.co.in/punjabihits/index.m3u8,vivo,HLS ok
 Punjabi Music HD (720p),Music,https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8,vivo,HLS ok
 Q-Music (1080p),Music,https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8,muerto,HTTP 403
@@ -475,7 +475,7 @@ Radio Capital TiVu (720p),Music;News,https://4c4b867c89244861ac216426883d1ad0.ms
 Radio Carnaval TV (720p) [Not 24/7],Entertainment;Music,https://eu1.servers10.com:8081/8116/index.m3u8,vivo,HLS ok
 Radio Chalaca,Music,https://servilive.com:3414/hybrid/play.m3u8,muerto,URLError: timed out
 Radio Chisinau (576p),Music,https://radiochisinau.md/hls/RChisinau.m3u8,vivo,HLS ok
-Radio Clasica TV (720p),Music,https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8,vivo,HLS ok
+Radio Clasica TV (720p),Music,https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8,muerto,HTTP 404
 Radio Colmenar 92.5 FM,Music,https://tvdatta.com:3041/live/colmenarlive.m3u8,vivo,HLS ok
 Radio Conexion Web TV (720p),Music,https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8,vivo,HLS ok
 Radio Contact (1080p),Music,https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8,muerto,HTTP 400
@@ -558,7 +558,7 @@ RTV Vida (1080p),Music,https://vidartv2.todostreaming.es/live/radiovida-emisiont
 RU.TV (1080p),Music,https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https,vivo,HLS ok
 Rumba TV (1080p),Music,http://186.148.196.100:8000/play/a02h,vivo,application/octet-stream ok
 RumbaMix TV (720p),Music,https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8,vivo,HLS ok
-Russian MusicBox (576p),Music,http://stream.mcquack.net/319/index.m3u8,vivo,HLS ok
+Russian MusicBox (576p),Music,http://stream.mcquack.net/319/index.m3u8,muerto,InvalidURL: URL can't contain control characters. '/319/tracks-v1a1/�\x1b\x0e�0\x01\x00\x00' (found at least '\x1b')
 Sabor TV (720p),Music,https://v1.tustreaming.cl/sabortv/index.m3u8,vivo,HLS ok
 Salsa Gorda Television (1080p) [Not 24/7],Music,https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8,vivo,HLS ok
 Salto Brasa Music (1080p),Music,https://salto-streams.nl/hls/sotv1.m3u8,muerto,TimeoutError: The read operation timed out
@@ -577,11 +577,11 @@ Sky Folk TV (720p) [Not 24/7],Music,https://eu.live.skyfolk.mk/live.m3u8,vivo,HL
 Slager Muzika,Music,https://stream-23.mazana.tv/slagrmuzika.m3u8s,vivo,HLS ok
 Slager Original,Music,https://stream-13.mazana.tv/slagroriginal.m3u8s,vivo,HLS ok
 Slager TV,Music,http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8,vivo,HLS ok
-Smart Radio (576p),Music,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8,muerto,InvalidURL: URL can't contain control characters. '/Regie/radio.stream/l�`C\x04\x1bR�!\x05\x1bR�!\x05\x1bR��\x0f�`���\x0
+Smart Radio (576p),Music,https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8,muerto,InvalidURL: URL can't contain control characters. '/Regie/radio.stream/a�:��\x05\x00\x00' (found at least '\x05')
 Sol Musica (720p),Music,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8,vivo,HLS ok
 Solo Bailalo (480p),Music,https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8,vivo,HLS ok
 Songdew TV (396p),Music,https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b,vivo,HLS ok
-SONGTV Russia,Music,https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8,vivo,HLS ok
+SONGTV Russia,Music,https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8,muerto,HTTP 503
 SOY Plancha TV (720p),Music,https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8,vivo,HLS ok
 SpektraTV (720p),Music,https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8,vivo,HLS ok
 Spirit TV (720p) [Not 24/7],Music;Religious,https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8,vivo,HLS ok
@@ -652,7 +652,7 @@ TMF (1080p),Classic;Music,https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649
 Today Radio (720p),Music,https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8,vivo,HLS ok
 Top Latino TV,Music,http://38.87.224.20:2220/play/a02b/index.m3u8,vivo,HLS ok
 Top TV (Serbia) (1080p),Music,http://82.165.71.58:8081/TopTV/live/playlist.m3u8,muerto,URLError: timed out
-TopEstrada TV (720p),Music,http://live.topestrada.com/live/topestrada/playlist.m3u8,vivo,HLS ok
+TopEstrada TV (720p),Music,http://live.topestrada.com/live/topestrada/playlist.m3u8,muerto,HTTP 404
 Topical Moon RD (720p) [Not 24/7],Music,https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8,vivo,HLS ok
 Totalmusic 80s (720p),Music,https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8,vivo,HLS ok
 Totalmusic 2000s (720p),Music,https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8,vivo,HLS ok
@@ -661,33 +661,33 @@ Totalmusic Concerts (720p),Music,https://cdn.global.elektamedia.com/live/c7eds/T
 Totalmusic Dance (720p),Music,https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8,vivo,HLS ok
 Totovision,Music,https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8,muerto,HTTP 404
 Tra Vinh TV (1080p),Culture;Entertainment;Music;News,https://freem3u.xyz/api/live/play.m3u8?vid=91,vivo,HLS ok
-Trace Africa (1080p),Music,https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8,muerto,HTTP 403
-Trace Afrikora (1080p),Music,https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8,muerto,HTTP 403
-Trace Ayiti (1080p),Music,https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8,muerto,HTTP 403
+Trace Africa (1080p),Music,https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8,vivo,HLS ok
+Trace Afrikora (1080p),Music,https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8,vivo,HLS ok
+Trace Ayiti (1080p),Music,https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8,vivo,HLS ok
 Trace Brazuca (1080p),Music,https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8,vivo,HLS ok
 Trace Brazuca HD (1080p),Music,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8,vivo,HLS ok
-Trace Caribbean (1080p),Music,https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8,muerto,HTTP 403
-Trace Gospel (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8,muerto,HTTP 403
-Trace Gospel Nigeria and East Africa (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8,muerto,HTTP 403
-Trace Gospel Southern Africa (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8,muerto,HTTP 403
-Trace Ivoire (1080p),Music,https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8,muerto,HTTP 403
-Trace Jama (1080p),Music,https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8,muerto,HTTP 403
-Trace Kitoko (1080p),Music,https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8,muerto,HTTP 403
-Trace Latina (1080p),Music,https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8,muerto,HTTP 403
-Trace Mboa (1080p),Music,https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8,muerto,HTTP 403
-Trace Muzika (1080p),Music,https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8,muerto,HTTP 403
-Trace Mziki (1080p),Music,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8,muerto,HTTP 403
-Trace Naija (1080p),Music,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8,muerto,HTTP 403
-Trace Ngoma (1080p),Music,https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8,muerto,HTTP 403
-Trace Toca (1080p),Music,https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8,muerto,HTTP 403
-Trace UK (1080p),Music,https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8,muerto,HTTP 403
+Trace Caribbean (1080p),Music,https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8,vivo,HLS ok
+Trace Gospel (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8,vivo,HLS ok
+Trace Gospel Nigeria and East Africa (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8,vivo,HLS ok
+Trace Gospel Southern Africa (1080p),Music;Religious,https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8,vivo,HLS ok
+Trace Ivoire (1080p),Music,https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8,vivo,HLS ok
+Trace Jama (1080p),Music,https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8,vivo,HLS ok
+Trace Kitoko (1080p),Music,https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8,vivo,HLS ok
+Trace Latina (1080p),Music,https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8,vivo,HLS ok
+Trace Mboa (1080p),Music,https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8,vivo,HLS ok
+Trace Muzika (1080p),Music,https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8,vivo,HLS ok
+Trace Mziki (1080p),Music,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8,vivo,HLS ok
+Trace Naija (1080p),Music,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8,vivo,HLS ok
+Trace Ngoma (1080p),Music,https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8,vivo,HLS ok
+Trace Toca (1080p),Music,https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8,vivo,HLS ok
+Trace UK (1080p),Music,https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8,vivo,HLS ok
 Trace Urban (1080p),Music,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8,vivo,HLS ok
-Trace Urban Africa Franco (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8,muerto,HTTP 403
-Trace Urban Caribbean And Indian Ocean (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8,muerto,HTTP 403
-Trace Urban HD (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8,muerto,HTTP 403
-Trace Urban International HD (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8,muerto,HTTP 403
-Trace Urban Southern Africa (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8,muerto,HTTP 403
-Trace Vanilla Islands (1080p),Music,https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8,muerto,HTTP 403
+Trace Urban Africa Franco (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8,vivo,HLS ok
+Trace Urban Caribbean And Indian Ocean (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8,vivo,HLS ok
+Trace Urban HD (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8,vivo,HLS ok
+Trace Urban International HD (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8,vivo,HLS ok
+Trace Urban Southern Africa (1080p),Music,https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8,vivo,HLS ok
+Trace Vanilla Islands (1080p),Music,https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8,vivo,HLS ok
 Traditional TV (1080p),Music,http://83.103.149.75:8085/udp/239.30.0.9:4000,vivo,application/octet-stream ok
 Tropi Q 99.7 FM (1080p),Music,https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8,vivo,HLS ok
 Tropical Moon Cumbia TV (720p),Music,https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8,muerto,URLError: timed out
@@ -719,9 +719,9 @@ V Classic TV (1080p),Music,http://186.148.196.100:8000/play/a02z,vivo,applicatio
 Vaanavil TV (720p),Music,https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8,vivo,HLS ok
 Vallenato Internacional (720p) [Not 24/7],Music,https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8,muerto,URLError: [Errno 111] Connection refused
 VAM TV (720p),Music,https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8,vivo,HLS ok
-Vantage Classic (720p),Music,https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)
-Vantage Dance (720p),Music,https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)
-Vantage Music (720p) [Geo-blocked],Music,https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)
+Vantage Classic (720p),Music,https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)
+Vantage Dance (720p),Music,https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)
+Vantage Music (720p) [Geo-blocked],Music,https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8,muerto,URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)
 Vantage Music UK (1080p) [Geo-blocked],Music,https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8,vivo,HLS ok
 Vantage Rock (720p) [Geo-blocked],Music,https://hls.vantagetv.ee/vrock_stream/index.m3u8,vivo,HLS ok
 Venus Media (1080p),Music,https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8,vivo,HLS ok
@@ -736,7 +736,7 @@ Vevo Pop (1080p),Music,https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-v
 Vevo R&B (1080p),Music,https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8,muerto,HTTP 403
 Vevo Retro Rock (1080p),Music,https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8,muerto,URLError: [Errno -5] No address associated with hostname
 Vevo True School Hip-Hop,Music,https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8,vivo,HLS ok
-Video Mix TV,Music,https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8,muerto,HTTP 404
+Video Mix TV,Music,https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8,vivo,HLS ok
 Video Rola (1080p),Music,https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8,muerto,HTTP 403
 Video Tour Channel,Music,https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8,vivo,HLS ok
 Vijay Takkar APAC (1080p),Music,https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd,vivo,application/dash+xml ok
@@ -772,10 +772,10 @@ Yo! MTV (1080p),Music,https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8,vivo,HLS
 Yo! MTV CA (1080p),Music,https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8,vivo,HLS ok
 YRF Music (1080p),Music,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8,vivo,HLS ok
 YRF Music Nepal,Music,https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8,vivo,HLS ok
-ZB Music (720p),Music,https://server.zillarbarta.com/zbmusic/index.m3u8,muerto,HTTP 404
+ZB Music (720p),Music,https://server.zillarbarta.com/zbmusic/index.m3u8,vivo,HLS ok
 ZFM Zoetermeer TV (720p),Music,https://zfmzoetermeer.nl/live/master.m3u8,muerto,HTTP 404
 ZICO TV (720p),Music,https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8,vivo,HLS ok
-Zo'r TV (576p),Entertainment;Music,https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8,vivo,HLS ok
+Zo'r TV (576p),Entertainment;Music,https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8,muerto,"InvalidURL: URL can't contain control characters. '/blocked/��c)�8$�V�n��Oe��""�\x19�㟬�Y�ף�O:�/��6�!y��/�/`��\x00\x00\x00"
 Zona Music TV (1080p),Music,https://acceso.radiosportstv.online:3022/stream/play.m3u8,muerto,URLError: [Errno 111] Connection refused
 Zoom (India) (720p),Music,https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8,vivo,HLS ok
 Zoom (India) Nepal (720p),Music,https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8,vivo,HLS ok
